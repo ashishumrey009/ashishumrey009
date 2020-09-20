@@ -50,6 +50,9 @@
   <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&hide_border=true" />
   
 </details>
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009)](https://github.com/ashishumrey009/github-readme-stats)
+</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
