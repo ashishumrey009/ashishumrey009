@@ -1,8 +1,6 @@
 ### Hi there, I'm Ashish Umrey - aka [ashishumrey009][website] 👋
 
 
-## Experienced Full Stack Engineer with a demonstrated history of working in the professional industry. Skilled in Javascript,CSS, HTML, SQL, and Linux. Strong engineering professional with a Master of Technology focused in Computer Software Engineering from Motilal Nehru National Institute Of Technology Allahabad
-
 - 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
