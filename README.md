@@ -34,6 +34,7 @@
   
 </details>
 <details>
+ <summary>:zap:Most Used Languages</summary>
 <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&show_icons=true&hide_border=true" />
 </details>
 
