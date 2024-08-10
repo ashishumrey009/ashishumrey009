@@ -3,7 +3,7 @@
 
 - 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 <br />
 ### Connect with me:
 
