@@ -1,44 +1,57 @@
-### Hi there, I'm Ashish Umrey - aka [ashishumrey009][website] 👋
+# Hi there 👋, I'm Ashish Umrey  
 
+🚀 **Software Engineer | Full Stack Developer | Open Source Enthusiast**
 
-- 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
-- 🌱 I’m currently learning everything 
-- 🥅 2025 Goals: Contribute to Open Source projects
-<br />
-### Connect with me:
+I’m a passionate developer with **4+ years of experience** building scalable web applications across healthcare and ERP domains. Currently working as **Senior Member of Technical Staff at Athenahealth**, transitioning into **Full Stack Development (React + Java Spring Boot)**.  
 
-[<img align="left" alt="ashishumrey009" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ashishumrey009 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ashishumrey009 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+💡 I love solving problems, contributing to open source, and exploring modern technologies.  
 
+---
 
-<br />
-### Languages and Tools:
-<img/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-<details>
-  <summary>:zap: Github Stats</summary>
+## 🔥 About Me  
+- 💻 Skilled in **React, Java Spring Boot, JavaScript, REST APIs, SQL, MongoDB**  
+- 🏗️ Experienced in building **responsive UIs & scalable microservices**  
+- 📌 2025 Goal: **Contribute more to Open Source projects**  
+- 📍 Based in **Chennai, India**  
 
-  <img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&hide_border=true" />
-  
-</details>
-<details>
- <summary>:zap:Most Used Languages</summary>
-<img align="left" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&show_icons=true&hide_border=true" />
-</details>
+---
 
-[website]: https://ashishumrey009.github.io/
-[twitter]: https://twitter.com/UmreyAshish
-[linkedin]: https://www.linkedin.com/in/ashishumreymnnit/
+## 🌐 Connect with Me  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashishumrey009.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Umrey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishumreymnnit/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@UmreyAshish-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UmreyAshish)  
+[![GitHub](https://img.shields.io/badge/GitHub-ashishumrey009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishumrey009)  
+
+---
+
+## ⚡ Tech Stack  
+
+### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+
+### 🛠️ Tools & Databases  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+⭐️ From [ashishumrey009](https://github.com/ashishumrey009)
