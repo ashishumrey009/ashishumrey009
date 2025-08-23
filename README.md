@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack Developer | Open Source Enthusiast
+🚀 Software Engineer | Full Stack Developer
 </h3>
 
 ---
@@ -74,11 +74,11 @@
 
 ---
 
-## 🏆 Badges  
+## 🏆 GitHub Trophies  
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashishumrey009&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishumrey009&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
