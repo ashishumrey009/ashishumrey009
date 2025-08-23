@@ -47,10 +47,14 @@ I’m a passionate developer with **4+ years of experience** building scalable w
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+<div align="center">
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 ---
 
