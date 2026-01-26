@@ -13,7 +13,7 @@
 
 - 💻 Skilled in **React, Java Spring Boot, JavaScript, REST APIs, SQL, MongoDB**  
 - 🏗️ Experienced in building **responsive UIs & scalable microservices**  
-- 📌 2025 Goal: **Contribute more to Open Source projects**  
+- 📌 2026 Goal: **Contribute more to Open Source projects**  
 - 📍 Based in **Chennai, India**  
 
 ---
