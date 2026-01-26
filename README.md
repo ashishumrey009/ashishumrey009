@@ -1,30 +1,49 @@
-<!-- Banner -->
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#FF5733">Ashish Umrey</span>  
-</h1>
+<!-- ===================== HEADER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Ashish%20Umrey&fontSize=44&fontAlignY=36&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=FF6F3C&center=true&vCenter=true&width=720&lines=Hi+there+👋+I'm+Ashish+Umrey;Software+Engineer+🚀;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Java;Building+Scalable+and+Reliable+Systems" />
+</p>
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack Developer
+💻 Software Engineer | Full-Stack Developer
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishumrey009&label=Profile%20Views&color=ff6f3c&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌈 About Me  
 
-- 💻 Skilled in **React, Java Spring Boot, JavaScript, REST APIs, SQL, MongoDB**  
-- 🏗️ Experienced in building **responsive UIs & scalable microservices**  
-- 📌 2026 Goal: **Contribute more to Open Source projects**  
-- 📍 Based in **Chennai, India**  
+I’m a **Software Engineer** who enjoys turning complex problems into **simple, scalable solutions**.
+
+- ⚙️ Strong in **React, Java, Spring Boot, REST APIs**
+- 🧩 Interested in **backend engineering & system design**
+- 📌 **2026 Goal:** Meaningful **Open Source contributions**
+- 📍 Based in **Chennai, India 🇮🇳**
+
+💡 *Good code is readable, maintainable, and built with intent.*
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://ashishumrey009.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ashishumreymnnit/"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Umrey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/UmreyAshish"><img src="https://img.shields.io/badge/Twitter-@UmreyAshish-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/ashishumrey009"><img src="https://img.shields.io/badge/GitHub-ashishumrey009-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ashishumrey009.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6F3C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashishumreymnnit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashish_Umrey-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/UmreyAshish">
+    <img src="https://img.shields.io/badge/Twitter-@UmreyAshish-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://github.com/ashishumrey009">
+    <img src="https://img.shields.io/badge/GitHub-ashishumrey009-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -32,24 +51,17 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,js,java,spring,html,css,mysql,mongodb,aws,git,github&perline=6" />
 </p>
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+---
+
+## 🚧 Currently Focused On  
+
+- 🧠 **Low Level Design (LLD)** – interview-oriented problems  
+- ⚙️ **Backend Engineering** with Spring Boot & Microservices  
+- ⚡ Performance-optimized **React applications**  
+- 📚 DSA for backend-heavy SDE roles  
 
 ---
 
@@ -57,31 +69,28 @@
 
 <div align="center">
 
-<!-- Streaks -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ashishumrey009&theme=radical&border_radius=12&card_width=500" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashishumrey009&theme=radical&border_radius=12"/>
 
-<!-- Main stats -->
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&border_radius=12" alt="Ashish's GitHub Stats" height="170"/>
 
-<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=ashishumrey009&show_icons=true&theme=radical&border_radius=12&count_private=true"/>
+
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&layout=compact&theme=gruvbox&border_radius=12" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishumrey009&layout=compact&theme=gruvbox&border_radius=12"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## ⭐ Final Note  
 
-<div align="center">
+<p align="center">
+  Thanks for stopping by 🙌  
+  <br/>
+  ⭐ If you like my work, feel free to star a repo or connect with me.
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashishumrey009&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-</div>
-
----
-
-⭐️ From [ashishumrey009](https://github.com/ashishumrey009)
+<!-- ===================== END ===================== -->
